@@ -52,7 +52,7 @@ Evitar: aparência SaaS/startup, fintech neon, botões pill, cards muito arredon
 - `ercon-detalhe-contabil.png`: fotografia editorial gerada e aprovada para a seção de contato; trabalho contábil em enquadramento vertical.
 - `logo-com-fundo-transparente.png`: logo transparente, adequada quando o recorte funcionar.
 - `logo-completa.jpg`: logo completa em fundo navy; usada no símbolo do header/footer e como imagem Open Graph.
-- `ercon-favicon.png`: recorte 512×512 do símbolo oficial com transparência, usado como favicon e Apple touch icon.
+- `ercon-favicon.png`: recorte 512×512 do símbolo oficial com interior azul, usado como favicon e Apple touch icon para manter o “E” legível em abas claras e escuras.
 - `babdcb6444d3acef73b6682335886135.webp`: referência visual, não conteúdo a copiar.
 
 Não baixar imagens, usar stock ou substituir arquivos por placeholders. Novas imagens geradas só devem ser criadas quando o usuário solicitar explicitamente; depois de aprovadas, devem ser salvas no projeto e registradas aqui.
