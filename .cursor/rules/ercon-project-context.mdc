@@ -1,0 +1,24 @@
+---
+description: Contexto permanente, identidade, conteúdo e restrições da landing page da ERCON
+alwaysApply: true
+---
+
+# ERCON — contexto obrigatório
+
+- Este projeto é a landing page institucional da **ERCON — Escritório Reis de Contabilidade**, em Milagres–CE.
+- Antes de alterar a página, leia [PROJECT_CONTEXT.md](../../PROJECT_CONTEXT.md), que é a fonte de verdade detalhada do produto, conteúdo, arquitetura e direção visual.
+- Nunca use a skill Sites neste projeto. Trabalhe diretamente nos arquivos locais existentes.
+- Preserve a implementação estática atual (`index.html`, `styles.css`, `script.js`) salvo pedido explícito para migrar a stack.
+- Use exclusivamente os assets locais; não baixe, gere nem substitua fotografias por placeholders.
+- Preserve a estética editorial premium inspirada na referência `babdcb6444d3acef73b6682335886135.webp`, sem copiar marca ou conteúdo jurídico.
+- Identidade: off-white dominante, navy `#0D2032`, navy secundário `#122D46`, dourado `#D2A858` somente como acento.
+- Evite estética SaaS, templates genéricos, botões pill, sombras pesadas, glassmorphism, gradientes chamativos e excesso de dourado.
+- Não invente métricas, avaliações, depoimentos, clientes, experiência, equipe, cargos, prêmios, certificações, CRC, CNPJ ou resultados.
+- Não atribua cargo ou qualificação à pessoa da fotografia institucional.
+- Todo CTA de atendimento deve apontar para `https://wa.me/5588997619647`, preferencialmente com mensagem contextual.
+- Instagram oficial: `https://www.instagram.com/ercon_contab/`.
+- Endereço: Travessa Jacob Felix, 199, Sala 2, Centro, Milagres–CE, CEP 63250-000.
+- Atendimento: segunda a sexta, 07:30–16:00; sábado e domingo fechados.
+- Preserve HTML semântico, navegação por teclado, foco visível, labels reais, contraste e `prefers-reduced-motion`.
+- Teste alterações em desktop e nas larguras móveis 360, 390 e 430 px; confira menu, âncoras, formulário, assets, console e overflow horizontal.
+- Atualize `PROJECT_CONTEXT.md` quando uma decisão estrutural, conteúdo oficial ou regra permanente mudar.
