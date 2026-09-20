@@ -45,7 +45,7 @@ Evitar: aparência SaaS/startup, fintech neon, botões pill, cards muito arredon
 
 ## Assets locais
 
-- `estátua-do-direito-fundo-transparente.png`: estátua transparente do hero; nunca colocar em card ou fundo retangular.
+- `estatua-do-direito-fundo-transparente.png`: estátua transparente do hero; nunca colocar em card ou fundo retangular. O nome permanece sem acentos para compatibilidade com deploys Linux/Vercel.
 - `imagem-do-advogado-principal.jpeg`: fotografia institucional; não atribuir nome, cargo ou qualificação.
 - `top-view-career-guidance-items-judges.jpg`: imagem estética do martelo e balança.
 - `ercon-consultoria-editorial.png`: fotografia editorial gerada e aprovada para a grande faixa institucional; reunião contábil em enquadramento horizontal.
